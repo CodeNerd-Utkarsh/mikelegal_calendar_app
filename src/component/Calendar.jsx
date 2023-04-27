@@ -6,10 +6,10 @@ function Calendar() {
     const data = [
         {
             Id: 1,
-            Subject: 'Meeting - 1',
+            Subject: 'Call Utkarsh and ask him for next round 😁',
             StartTime: new Date(),
             EndTime: new Date(),
-            IsAllDay: false
+            IsAllDay: false,
         },
     ];
     const eventSettings = { dataSource: data }
@@ -30,6 +30,7 @@ function Calendar() {
     return (
         <ScheduleComponent
             eventSettings={eventSettings}
+            currentView='Day'
         >
             <Inject services={[Day, Week, WorkWeek, Month, Agenda]} />
         </ScheduleComponent>
