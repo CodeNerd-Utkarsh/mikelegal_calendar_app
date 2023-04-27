@@ -17,4 +17,9 @@
 p {
     font-size: 2rem;
     font-weight: 400;
+    /* text-align: center; */
+}
+
+img {
+    margin: 10px;
 }

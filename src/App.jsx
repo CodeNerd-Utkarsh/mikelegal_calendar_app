@@ -8,6 +8,12 @@ function App() {
         @syncfusion/ej2-react-schedule
       </a>
       </p>
+      <p>Add Some ⭐ on :-
+        <a href="https://github.com/CodeNerd-Utkarsh/mikelegal_calendar_app">
+          CodeNerd-Utkarsh
+        </a>
+      </p>
+      <br />
       <span>Refresh the Page, you got some important task to do 😊</span>
       <Calendar />
     </div>
