@@ -9,7 +9,7 @@ function App() {
       </a>
       </p>
       <p>Add Some ⭐ on :-
-        <a href="https://github.com/CodeNerd-Utkarsh/mikelegal_calendar_app">
+        <a href="https://github.com/CodeNerd-Utkarsh/">
           CodeNerd-Utkarsh
         </a>
       </p>
